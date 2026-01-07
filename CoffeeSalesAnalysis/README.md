@@ -20,6 +20,8 @@ The final dataset for analysis was created in Orders my merging data from the ot
 
 <img src="Dashboard_Full.png" width="650"/>
 
+> All insights, interpretations, and business recommendations presented in this project were independently developed based on my own analysis of the data.
+
 ### 2. Tools Used
 
 - **Pivot Tables** - for summarizing the dataset efficiently and uncovering patterns. For example, a pivot table analyzed how monthly average revenue evolved over time.
