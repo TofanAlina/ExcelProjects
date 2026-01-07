@@ -53,4 +53,4 @@ To maintain analytical relevance, the slicers were intentionally connected only 
 - **Arabica coffee** (2.5 kg, Large size) stands out as the **best-selling product**, generating over €2,000, whereas **0.2 kg packages** generate **minimal revenue** (<€500) and could be considered for discontinuation.
 - The **UK market** requires strategic intervention, shows a **critical decline** with **sales dropping by over 80%** in March 2022 compared to March 2019.
 - **Seasonality** is evident in **Liberica sales**, with a consistent increase from late September to March, suggesting **strong winter demand**.
-- Strong **regional taste preferences** can be observed in the **European markets**, with a high demand for **Liberica and Excelsa**, which together account for over 55% of total European revenue.
+- Strong **regional taste preferences** are observed in the **European markets**, with a high demand for **Liberica and Excelsa**, which together account for over 55% of total European revenue.
