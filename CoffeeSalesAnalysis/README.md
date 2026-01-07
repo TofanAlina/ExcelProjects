@@ -2,7 +2,7 @@
 
 The purpose of this Excel project is to answer common business questions in the sales industry, such as identifying top-selling products, understanding costumor behavior and analyzing revenue trends over time.
 
-## Project Overview
+## Table of Contents
 - [Project Overview](#1-project-overview)
 - [Tools](#2-tools)
 - [Business-Oriented Selective Slicer Logic](#3-project-components-and-personal-contributions)
@@ -18,4 +18,11 @@ The initial inspiration for the dashboard layout was taken from this [Youtube tu
 
 The final dataset for analysis was created in Orders my merging data from the other 2 tables, using powerful Excel functions such as XLOOKUP and INDEX/MATCH. Additional data cleaning and formatting steps were performed to ensure data consistency and accuracy before building a clear and well-organized dashboard.
 
-<img src=".png" width="650">
+<img src="Dashboard_Full.png" width="650">
+
+### 2. Tools Used
+
+- **Pivot Tables** - for summarizing the dataset efficiently and uncovering patterns. For example, a pivot table analyzed how monthly average revenue evolved over time.
+<img src="
+- **Pivot Charts** - to visually communicate insights, such as a line chart illustrating sales trend across the evaluated time period.
+- 
