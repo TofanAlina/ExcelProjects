@@ -23,6 +23,7 @@ The final dataset for analysis was created in Orders my merging data from the ot
 ### 2. Tools Used
 
 - **Pivot Tables** - for summarizing the dataset efficiently and uncovering patterns. For example, a pivot table analyzed how monthly average revenue evolved over time.
-<img src="
+<img src="AverageRevenue.png" width="200">
 - **Pivot Charts** - to visually communicate insights, such as a line chart illustrating sales trend across the evaluated time period.
-- 
+- **Slicers** - to enchance interactivity, applied only to relevant visuals as explained below in order to ensure a consistent and meaningful analysis.
+<img src="SalesTrend.png" width="400"> <img src="Slicers.png" width="200">
