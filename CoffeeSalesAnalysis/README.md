@@ -26,4 +26,6 @@ The final dataset for analysis was created in Orders my merging data from the ot
 <img src="AverageRevenue.png" width="200">
 - **Pivot Charts** - to visually communicate insights, such as a line chart illustrating sales trend across the evaluated time period.
 - **Slicers** - to enchance interactivity, applied only to relevant visuals as explained below in order to ensure a consistent and meaningful analysis.
-<img src="SalesTrend.png" width="400"> <img src="Slicers.png" width="200">
+<p align="center">
+  <img src="SalesTrend.png" width="45%" style="border:1px solid black;"> <img src="Slicers.png" width="45%" style="border:1px solid black;">
+</p>
