@@ -28,10 +28,16 @@ The final dataset for analysis was created in Orders my merging data from the ot
 - **Pivot Charts** - to visually communicate insights, such as a line chart illustrating sales trend across the evaluated time period.
 - **Slicers** - to enchance interactivity, applied only to relevant visuals as explained below in order to ensure a consistent and coehisive analysis.
 
-<p align="center">
-  <img src="SalesTrend.png" width="45%" style="border:1px solid black;"/> 
-  <img src="Slicers.png" width="45%" style="border:1px solid black;"/>
-</p>
+<table align="center" border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <td>
+      <img src="SalesTrend.png" width="400"/>
+    </td>
+    <td>
+      <img src="Slicers.png" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ### 3. Business-Oriented Selective Slicer Logic
 To maintain analytical relevance, the slicers were intentionally connected only to visuals where they provide meaningful insights:
