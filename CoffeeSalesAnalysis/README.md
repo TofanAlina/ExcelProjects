@@ -4,9 +4,9 @@ The purpose of this Excel project is to answer common business questions in the 
 
 ## Table of Contents
 - [Project Overview](#1-project-overview)
-- [Tools](#2-tools)
-- [Business-Oriented Selective Slicer Logic](#3-project-components-and-personal-contributions)
-- [Key Insights & Recommendations](#4-conclusions-and-business-recommendations)
+- [Tools](#2-tools-used)
+- [Business-Oriented Selective Slicer Logic](#3-business-oriented-selective-slicer-logic)
+- [Key Insights and Recommendations](#4-key-insights-and-recommendations)
 
 #### 1. Project Overview
 
@@ -46,5 +46,11 @@ To maintain analytical relevance, the slicers were intentionally connected only 
 3. The **Loyalty Card** slicer is linked to *Top 5 Customers* and *Total Customers by Country* charts to analyze loyalty-driven purchasing behaviour.
 4. The **Country** slicer filters all the charts, enabling a comparative evaluation across global markets.
 
-### 4. Key Insights
-
+### 4. Key Insights and Recommendations
+- **77% of customers** are located in **U.S.**, indicating a strong dependency on a single market.
+- **Sales trends show significant fluctuations during the pandemic**, with an overall upward trend that **peaked in Fall 2021**, followed by a noticeable decline.
+- **Total sales** for the analyzed period amount to approximately **€41K**, with three coffee categories contributing almost equally, while **Robusta underperforms** and may **require further investigation**.
+- **Arabica coffee** (2.5 kg, Large size) stands out as the **best-selling product**, generating over €2,000, whereas **0.2 kg packages** generate **minimal revenue** (<€500) and could be considered for discontinuation.
+- The **UK market** requires strategic intervention, shows a **critical decline** with **sales dropping by over 80%** in March 2022 compared to March 2019.
+- **Seasonality** is evident in **Liberica sales**, with a consistent increase from late September to March, suggesting **strong winter demand**.
+- Strong **regional taste preferences** can be observed in the **European markets**, with a high demand for **Liberica and Excelsa**, which together account for over 55% of total European revenue.
