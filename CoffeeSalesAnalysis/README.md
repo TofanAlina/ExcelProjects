@@ -18,7 +18,7 @@ The initial inspiration for the dashboard layout was taken from this [Youtube tu
 
 The final dataset for analysis was created in Orders my merging data from the other 2 tables, using powerful Excel functions such as XLOOKUP and INDEX/MATCH. Additional data cleaning and formatting steps were performed to ensure data consistency and accuracy before building a clear and well-organized dashboard.
 
-<img src="Dashboard_Full.png" width="650"/>
+<img src="Dashboard.png" width="650"/>
 
 > All insights, interpretations, and business recommendations presented in this project were independently developed based on my own analysis of the data.
 
