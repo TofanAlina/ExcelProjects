@@ -43,10 +43,10 @@ The final dataset for analysis was created in Orders my merging data from the ot
 
 ### 3. Business-Oriented Selective Slicer Logic
 To maintain analytical relevance, the slicers were intentionally connected only to visuals where they provide meaningful insights:
-1. The **Size slicer** is connected to the *Top 5 Products* and *Share of Total Sales by Coffee Category* charts to help evaluate how product size influences purchasing behaviour.
-2. The **Roast Type** and **Coffee Type** slicers are applied to the *Top 5 Products*, *Top Customers* and *Sales Trend* visuals, as the 3 charts contribute to breaking down customer preferences, behavioral patterns, and potential seasonality.
-3. The **Loyalty Card** slicer is linked to *Top 5 Customers* and *Total Customers by Country* charts to analyze loyalty-driven purchasing behaviour.
-4. The **Country** slicer filters all the charts, enabling a comparative evaluation across global markets.
+1. The **Size slicer** is connected to the *Top 5 Products* and *Share of Total Sales by Coffee Category* charts to evaluate how product size influences purchasing behaviour.
+2. The **Roast Type** and **Coffee Type** slicers are applied to the *Top 5 Products*, *Top Customers* and *Sales Trend* visuals, supporting the analysis of customer preferences, behavioral patterns, and potential seasonality.
+3. The **Loyalty Card** slicer is linked to *Top 5 Customers* and *Total Customers by Country* charts to assess loyalty-driven purchasing behaviour.
+4. The **Country** slicer filters all the charts, enabling comparative evaluation across global markets.
 
 ### 4. Key Insights and Recommendations
 - **77% of customers** are located in **U.S.**, indicating a strong dependency on a single market.
